@@ -1,0 +1,6 @@
+lib/
+lib/*
+example.js
+node_modules
+node_modules/*
+.eslintrc
